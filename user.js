@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name	Podgląd wszystkich powiadomień
-// @namespace	http://userscripts.org/scripts/source/380892.user.js
+// @namespace https://raw.githubusercontent.com/grzesieksw/wykop_mikroblog/master/user.js
 // @author	bruce
 // @description	Otwiera wszystkie nieprzeczytane powiadomienia pod linkami.
 // @include	http://*.wykop.pl/powiadomienia*
